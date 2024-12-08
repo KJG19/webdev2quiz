@@ -69,7 +69,7 @@ export default function QuizPage() {
           <button
             type="button"
             onClick={handleSubmit}
-            className="px-6 py-3 bg-blue-500 text-white rounded-lg shadow-md"
+            className="flex items-center justify-center rounded-lg bg-blue-500 text-white text-xl py-4 px-8 m-5 hover:bg-blue-600 transition-all duration-300"
           >
             Submit
           </button>
