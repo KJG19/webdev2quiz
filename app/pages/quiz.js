@@ -30,7 +30,7 @@ export default function QuizPage() {
   return (
     <main className="min-h-screen bg-gray-100 p-5">
       <h1 className="text-center text-4xl font-bold text-green-700 p-5">
-        Kyle's Coding Quiz
+        Kyles Coding Quiz
       </h1>
       <form className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg p-8 space-y-8">
         {questions.map((question) => (

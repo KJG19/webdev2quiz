@@ -5,7 +5,7 @@ export default function HomePage() {
     <main>
       <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
         <h1 className="text-5xl font-extrabold text-center text-green-600 mb-10">
-          Kyle's Coding Quiz
+          Kyles Coding Quiz
         </h1>
         <div className="flex items-center justify-center">
           <Link
